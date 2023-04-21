@@ -334,3 +334,9 @@ Don't collapse Bootstrap navbar
         margin-top: 0;
     }
 }
+
+.timeline-body > ul {
+    padding-top: 0;
+    padding-left: 3em;
+    padding-bottom: 1em;
+}
